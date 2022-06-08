@@ -1,5 +1,16 @@
-## Run GHCI
+## GHCI Commands
+
+### Run GHCI
 ```ghci```
 
-## Compile
+### Compile
+```:l [filename]```
+
+#### ex :
 ```:l baby.hs```
+
+### Get type of value
+```:t [value]```
+
+#### ex :
+```:t 'a'```
